@@ -2,7 +2,7 @@
 
 > **AI-Powered Productivity Companion** — Never miss a deadline again.
 
-Built for the [Hackathon Name] Hackathon. LifeSaver AI is a proactive productivity companion that helps students, professionals, and entrepreneurs plan, prioritize, and complete tasks before deadlines are missed.
+LifeSaver AI is a proactive productivity companion that helps students, professionals, and entrepreneurs plan, prioritize, and complete tasks before deadlines are missed.
 
 ---
 
